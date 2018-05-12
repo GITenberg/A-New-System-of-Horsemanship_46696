@@ -1,4 +1,5 @@
 _repo: A-New-System-of-Horsemanship_46696
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Berenger, Richard
@@ -6,6 +7,9 @@ contributor:
     deathdate: 1782
     gutenberg_agent_id: '43908'
     url: http://www.gutenberg.org/2009/agents/43908
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bourgelat, Claude
@@ -15,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43907
     wikipedia: http://en.wikipedia.org/wiki/Claude_Bourgelat
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46696#A-New-System-of-Horsemanship
 gutenberg_issued: '2014-08-26'
 gutenberg_type: Text
 identifiers:
